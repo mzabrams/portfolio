@@ -13,12 +13,11 @@
       institution: Duke University
       year: 2024 (Expected)
       description:
-        - Advisor, Dr. Cameron R. 'Dale' Bass
-        - Description 2.
-        - title: Description 3.
+        - Advisors, Dr. Cameron R. 'Dale' Bass and Dr. Jason F. Luck
+        - title: Research Focus
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Sex differences in injury and fatality risk in motor vehicle crashes
+            - Concussion and traumatic brain injury in sports, specifically high school football and adult Muay Thai
     - title: B.S. in Biomedical Engineering
       institution: Duke University, Durham, NC
       year: 2019
@@ -29,35 +28,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    -title: TBD
 
 - title: Open Source Projects
   type: time_table
@@ -85,20 +56,14 @@
     - title: Reviewer, Journal of Emerging Investigators
       year: 2020-Present
 
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Sex Differences in Vehicle Safety
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Concussion in Sports
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
