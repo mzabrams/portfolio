@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Mitchell Z Abrams
-    - name: Date of Birth
-      value: November 22, 1996
+    - name: Current Role
+      value: PhD Candidate, Duke University
+    - name: E-Mail
+      value: mitchell.abrams@duke.edu
 
 - title: Education
   type: time_table
@@ -44,9 +46,6 @@
       items: 
         - Gundolf Beier Award, International Research Council on Biomechanics of Injury
         - Best Presentation in Session, International Research Council on Biomechanics of Injury
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Professional Service
   type: time_table
@@ -60,10 +59,4 @@
   type: nested_list
   contents:
     - title: Sex Differences in Vehicle Safety
-      items: 
-        - Description 1.
-        - Description 2.
     - title: Concussion in Sports
-      items:
-        - Description 1.
-        - Description 2.
