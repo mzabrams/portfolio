@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mzabrams.github.io/portfolio/sitemap.xml
