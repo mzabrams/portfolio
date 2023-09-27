@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
 ## Teaching Goals
 
-As an instructor focused on biomedical engineering, my primary teaching goals are to provide students with skills applicable beyond the classroom, and to connect course content with the real-world applications through both lecture content and hands-on experiences. I feel comfortable teaching introductory courses on engineering, biomechanics, and programming in Python, MATLAB, or R, as well as intermediate or advanced engineering courses focused on biomechanics and programming for engineers. I am also comfortable teaching courses directly related to my research focus, particularly data analysis and presentation and head injuries.
+As an instructor focused on biomedical engineering, my primary teaching goals are to provide students with skills applicable beyond the classroom, and to connect course content with the real-world applications through both lecture content and hands-on experiences. I feel comfortable teaching introductory courses on engineering, biomechanics, and programming in Python, MATLAB, or R, as well as intermediate or advanced engineering courses focused on biomechanics and programming for engineers. I am also comfortable teaching courses directly related to my research focus, particularly courses centered around current topics in neurotrauma and concussion research. 
 
 ## Real World Applications in the Classroom
 
