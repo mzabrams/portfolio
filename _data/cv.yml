@@ -26,12 +26,7 @@
     - title: Minor in Computer Science
       institution: Duke University, Durham, NC
       year: 2019
-
-- title: Experience
-  type: time_table
-  contents:
-    -title: TBD
-
+      
 - title: Open Source Projects
   type: time_table
   contents:
