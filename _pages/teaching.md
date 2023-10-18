@@ -30,6 +30,7 @@ As another example, I am currently developing an assignment for a course on Intr
 As an undergraduate, I served as a TA for the introductory programming course for engineers, during a major transition from teaching MATLAB to teaching Python. As one of the few TAs for that course with extensive Python experience, I volunteered to organize and run review sessions for each exam. In my experience, it is most effective to learn to write code by actively writing code. With this in mind, I structured my review sessions as workshops, focusing on each concept individually, allowing students to work through sample problems, and then stepping through why various methods do or do not work. While I did not have access to the course feedback submitted by students, I noted a larger number of students at the second review session I held than were present at the first.
 
 
+
 ---
 
 
