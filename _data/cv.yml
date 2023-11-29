@@ -7,6 +7,7 @@
       value: PhD Candidate, Duke University
     - name: E-Mail
       value: mitchell.abrams@duke.edu
+    - name: 
 
 - title: Education
   type: time_table
@@ -15,7 +16,7 @@
       institution: Duke University
       year: 2024 (Expected)
       description:
-        - Advisors, Dr. Cameron R. 'Dale' Bass and Dr. Jason F. Luck
+        - Advisors, Dr. Jason F. Luck and Cameron R. 'Dale' Bass
         - title: Research Focus
           contents:
             - Sex differences in injury and fatality risk in motor vehicle crashes
@@ -26,13 +27,12 @@
     - title: Minor in Computer Science
       institution: Duke University, Durham, NC
       year: 2019
-      
-- title: Open Source Projects
-  type: time_table
+
+- title: Academic Interests
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/mzabrams/fars_cleaner">fars_cleaner</a>
-      year: 2020-now
-      description: A tool to download and aggregate data from the National Highway Traffic Safety Administration's Fatality Analysis Reporting System
+    - title: Sex Differences in Vehicle Safety
+    - title: Concussion in Sports
 
 - title: Honors and Awards
   type: time_table
@@ -50,8 +50,10 @@
     - title: Reviewer, Journal of Emerging Investigators
       year: 2020-Present
 
-- title: Academic Interests
-  type: nested_list
+
+    - title: Open Source Projects
+  type: time_table
   contents:
-    - title: Sex Differences in Vehicle Safety
-    - title: Concussion in Sports
+    - title: <a href="https://github.com/mzabrams/fars_cleaner">fars_cleaner</a>
+      year: 2020-now
+      description: A tool to download and aggregate data from the National Highway Traffic Safety Administration's Fatality Analysis Reporting System

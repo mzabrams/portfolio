@@ -579,7 +579,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 1rem;
 
   h1 {
     color: var(--global-theme-color);
@@ -599,10 +599,9 @@ footer.sticky-bottom {
 
   h2.bibliography {
     color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0rem;
+    margin: 0 0 0.5 em;
     text-align: right;
   }
 
