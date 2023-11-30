@@ -10,5 +10,6 @@ children:
     - title: BME590 Neurotrauma
       permalink: /teaching/bme590f23/
     #- title: divider
+social: true
 ---
 

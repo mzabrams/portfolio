@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 toc:
   sidebar: left
+social: true
 ---
 
 ## Teaching Goals
